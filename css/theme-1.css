@@ -1,0 +1,25 @@
+.alert-message {
+    background: #fff;
+    border: solid 1px #cecece;
+    border-radius: 5px 5px 0 0;
+    width: 260px;
+    padding: 1em;
+    position: fixed;
+    bottom: -10em;
+    transition: bottom 0.5s;
+    left: 50%;
+    margin-left: -146px;
+}
+.alert-message.active {
+    bottom: 0;
+}
+.alert-message p {
+    margin: 0 0 1em;
+}
+.alert-message button {
+    padding: 0.3em 1em;
+    margin: 0 auto;
+    width: 100px;
+    display: block;
+    cursor: pointer;
+}

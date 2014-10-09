@@ -1,0 +1,15 @@
+{
+    "name": "alert.js",
+    "author": "Graham Licence",
+    "version": "1.0.0",
+    "description": "Unobtrusive alert messaging",
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "grunt-contrib-uglify": "~0.2.7",
+        "matchdep": "0.1.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/grahamlicence/alert-js.git"
+    }
+}

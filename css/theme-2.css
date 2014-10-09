@@ -1,0 +1,22 @@
+.alert-message {
+    background: #F5E884;
+    padding: 0.5em;
+    position: fixed;
+    right: -10em;
+    transition: right 0.5s;
+    top: 0;
+    margin-left: -146px;
+}
+.alert-message.active {
+    right: 0;
+}
+.alert-message p {
+    margin: 0 1em 0 0;
+    display: inline-block;
+}
+.alert-message button {
+    padding: 0.3em 0.5em;
+    width: 100px;
+    display: inline-block;
+    cursor: pointer;
+}
