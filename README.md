@@ -4,7 +4,7 @@ Alert.js
 **Unobtrusive alert messaging**
 
 
-_alrt.js_ changes the default behaviour of JavaScript alerts so the site is still usable when shown and so they can be styled to fit the theme of the site. 
+_alert.js_ changes the default behaviour of JavaScript alerts so the site is still usable when shown and so they can be styled to fit the theme of the site. 
 
 Alert is library agnostic, and tested in IE7+, Chrome, Firefox, Opera, and Safari as well as iOS and Android. 
 
